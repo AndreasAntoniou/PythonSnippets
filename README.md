@@ -8,11 +8,11 @@ Those are some of the data models that are uploaded here:
 ○ __Decision Tree Modelling__ 
 
 
- • [*Decision Tree with Cart Decisions*](/Tree Diagram with C5.0 algorithm.ipynb/) 
+ • *Decision Tree with Cart Decisions*(/Tree Diagram with C5.0 algorithm.ipynb/) 
  
- • *Decision Tree with C5.0 Algorithms* (/Tree Diagram with C5.0 algorithm.ipynb/)
+ • *Decision Tree with C5.0 Algorithms*
  
-Random Forest Algorithm(/Tree Diagram with C5.0 algorithm.ipynb/)
+ • *Random Forest Algorithm*
  
 ○ __Clustering__
  
