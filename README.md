@@ -16,7 +16,7 @@ Those are some of the data models that are uploaded here:
  
 ○ __Clustering__
  
- • *K-means Clustering*
+ • [*K-means Clustering*](K-Means%20Clustering.ipynb)
 
 ○ __Regression Analysis__
 
