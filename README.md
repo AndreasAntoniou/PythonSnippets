@@ -10,7 +10,7 @@ Those are some of the data models that are uploaded here:
 
  • *Decision Tree with Cart Decisions* 
  
- • *[Decision Tree with C5.0 Algorithms*PythonSnippets]*(Tree Diagram with C5.0 algorithm.ipynb)
+ • *Decision Tree with C5.0 Algorithms*PythonSnippets*
  
  • *Random Forest Algorithm*
  
