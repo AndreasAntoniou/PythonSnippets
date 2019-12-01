@@ -10,7 +10,7 @@ Those are some of the data models that are uploaded here:
 
  • [*Decision Tree with Cart Decisions*](Tree%20Diagram%20with%20C5.0%20algorithm.ipynb)
  
- • [*Decision Tree with C5.0 Algorithms*](Tree%20Diagram%20with%20CART%20algorithm.ipynb)
+ • [*Decision Tree with C5.0 Algorithm*](Tree%20Diagram%20with%20CART%20algorithm.ipynb)
  
  • [*Random Forest Algorithm*](Random%20Forest.ipynb)
  
