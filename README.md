@@ -20,6 +20,7 @@ Those are some of the data models that are uploaded here. Jupyter Notebook and P
 
 ○ __Regression Analysis__
 
+ • [*Multiple-Regression Analysis*](Multiple%20Regression%20Analysis.ipynb)
 
 
 More models will be added throughout time.
