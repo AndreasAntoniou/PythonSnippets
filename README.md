@@ -21,7 +21,6 @@ Those are some of the data models that are uploaded here. Jupyter Notebook and P
 ○ __Regression Analysis__
 
 
-The cod
 
 More models will be added throughout time.
 Please feel free to go through the codes, make remarks and report any issues.
