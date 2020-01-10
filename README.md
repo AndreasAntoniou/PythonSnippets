@@ -21,7 +21,8 @@ Those are some of the data models that are uploaded here. Jupyter Notebook and P
 ○ __Regression Analysis__
 
  • [*Multiple-Regression Analysis*](Multiple%20Regression%20Analysis.ipynb)
-
+ 
+ • [*TensorFlow Regression Analysis with Heuristics and Hyperparameters*](TensorFlow%20Regression%20Analysis%20example.ipynb)
 
 More models will be added throughout time.
 Please feel free to go through the codes, make remarks and report any issues.
